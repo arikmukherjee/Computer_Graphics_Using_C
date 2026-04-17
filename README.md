@@ -5,6 +5,7 @@
 - Midpoint Line Drawing
 - Bresenham's Circle Drawing
 - Midpoint Circle Drawing
+- Midpoint Elipse Drawing
 - 2D :
   - Translation
   - Rotation
